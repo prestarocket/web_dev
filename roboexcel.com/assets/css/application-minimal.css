@@ -1,0 +1,61 @@
+/*
+ * Minimal Application level overrides
+ * (things that dont make sense in a toolkit :)
+ * copyright @colossal 2015
+ */
+.block {
+ overflow: hidden;
+}
+
+
+/* navbar */
+.app-navbar {
+  font-size: 13px;
+  letter-spacing: .45em;
+}
+.app-navbar .navbar-brand {
+  font-size: 13px;
+}
+
+.app-navbar .nav-item + .nav-item {
+  margin-left: 15px;
+}
+
+.app-navbar .collapsing .nav-item + .nav-item,
+.app-navbar .collapse.show .nav-item + .nav-item {
+  margin-left: 0;
+}
+
+/* intro block */
+.app-block-intro {
+  padding-top: 20px;
+  background-color: #f1c40f;
+}
+@media (max-width: 480px) {
+  .app-block-game-img {
+    transform: scale(1.5) !important;
+  }
+}
+
+/* design block */
+@media (min-width: 768px) {
+  .app-block-design-img {
+    margin-top: -220px;
+    margin-left: 0;
+
+  }
+}
+
+
+/* transforms */
+.app-translate-100 {
+  -webkit-transform: translateY(100px);
+      -ms-transform: translateY(100px);
+          transform: translateY(100px);
+}
+
+/* footer block */
+.app-block-footer {
+  padding-top: 20px;
+  background-color: #f1c40f;
+}
