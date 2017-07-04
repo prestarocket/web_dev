@@ -2874,7 +2874,8 @@ tbody.collapse.show {
   margin-right: 1rem;
   font-size: 1.25rem;
   line-height: inherit;
-  white-space: nowrap; }
+  white-space: nowrap;
+   }
   .navbar-brand:focus, .navbar-brand:hover {
     text-decoration: none; }
 
@@ -5680,6 +5681,9 @@ a.bg-inverse:focus, a.bg-inverse:hover {
 .mr-auto {
   margin-right: auto !important; }
 
+  .mr-auto {
+  margin-right: auto !important; }
+
 .mb-auto {
   margin-bottom: auto !important; }
 
@@ -8448,7 +8452,7 @@ textarea {
 
 .h1.block-title,
 h1.block-title {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   line-height: 1.2; }
 
 .block .lead {
