@@ -55,4 +55,4 @@ Icon Images Hand-drawn
 http://handdrawngoods.com/store/jolly-icons-free/
 
 ===================================================
-Customized for LonasGardeningService.com by Javier Lona
+Customized for http://LonasGardeningService.com by Javier Lona
