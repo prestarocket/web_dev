@@ -52,4 +52,7 @@ Demo Images:
 http://pexels.com
 
 Icon Images Hand-drawn
-handdrawngoods.com/store/tasty-icons-free-food-icons/
+http://handdrawngoods.com/store/jolly-icons-free/
+
+===================================================
+Customized for LonasGardeningService.com by Javier Lona
