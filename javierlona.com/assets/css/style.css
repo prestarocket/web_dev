@@ -905,9 +905,8 @@ ul.portfolio li.active {
 /* Statistics */
 
 .statistics-section {
-    background: url(../images/bg/statistics.jpg);
-    background-size: cover;
-	background-attachment: fixed;
+
+  background-color: #FFFFFF;
 }
 
 .statistics {
@@ -954,7 +953,7 @@ ul.portfolio li.active {
 /* Services */
 
 .services-section {
-  background-color: #F9F9F9;
+  background-color: #FFFFFF;
 }
 
 .services-section hr {
@@ -1182,8 +1181,8 @@ ul.portfolio li.active {
 /* Footer */
 
 .footer-section {
-    background: url(../images/bg/footer-bg.png);
-	background-repeat: repeat;
+    background-color: #f1f1f1;
+	  background-repeat: repeat;
     padding: 80px 0px;
     color: #f8f8f8;
 }
